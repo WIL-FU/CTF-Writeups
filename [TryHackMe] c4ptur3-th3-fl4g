@@ -1,0 +1,16 @@
+# c4ptur3-th3-fl4g
+A beginner level CTF challenge
+
+# Introduction
+There are a total of 4 tasks in this CTF challenge, the 1st task covering ciphers, encoding, and encryption. Usage of Base64 and rotational ciphers is highly prevalent. 
+Task 2 involves messages hidden in spectrograms of audio files. Task 3 involves steganography, particularly image steganography. Task 4 involves other forms of steganography 
+and hiding messages in files, utilizing the practise of security through obscurity. Both tasks provide decent challenges for a novice. The length of this CTF is around 45 minutes,
+according to the TryHackMe website. 
+Its a simple, yet engaging challenge, especially for someone who has never attempted one before, like me. Finding numerous toolchains, expliots, ciphers, vulnerabilities, as well as
+analysing files closely, going as far as looking at the binary data, the headers, and many more. This CTF was a perfect introduction for me to OSINT, decoding ciphers, steganography, and 
+other offensive security practises. Overall, a perfect beginner challenge for students in cybersecuirty, looking to pursue the world of CTFs.
+This tutorial aims to document the solutions for this CTF. No form of AI or deep learning was used to find these solutions, or create this write-up.
+
+# Task 1
+
+
